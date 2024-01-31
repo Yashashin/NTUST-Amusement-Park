@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (WaterSurface.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+Debug\ArcBallCam.obj : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

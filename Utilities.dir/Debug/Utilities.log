@@ -1,0 +1,3 @@
+﻿  Pnt3f.cpp
+C:\WaterSurface-master\WaterSurface-master\src\Utilities\Pnt3f.cpp(78,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Utilities.vcxproj -> C:\WaterSurface-master\WaterSurface-master\Debug\Utilities.lib

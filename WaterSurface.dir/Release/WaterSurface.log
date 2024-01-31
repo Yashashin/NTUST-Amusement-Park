@@ -1,0 +1,282 @@
+﻿  TrainView.cpp
+C:\WaterSurface-master\WaterSurface-master\particle.h(22,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\particle.h(62,22): warning C4244: '=': conversion from 'ULONGLONG' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\particle.h(63,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\particle.h(67,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\particle.h(70,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\particle.h(93,1): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(59,28): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(60,28): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(61,28): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(63,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(63,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(65,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(66,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(67,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(85,45): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(86,45): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(88,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(88,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(90,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(91,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(92,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(96,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(96,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(111,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(116,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(122,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(134,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(150,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(164,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(171,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(184,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(191,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(211,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(223,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\../ParticleSystem.h(241,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(595,102): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(602,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(615,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(703,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(720,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(724,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(726,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(733,84): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(741,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(934,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(935,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1014,97): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1022,81): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1064,102): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1066,103): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1073,92): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1115,100): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1117,101): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1124,90): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1164,106): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1166,107): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1173,101): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1215,106): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1224,89): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1317,106): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1325,87): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1366,105): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1367,105): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1375,95): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1420,99): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1429,89): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1470,104): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1472,105): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1479,94): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1519,104): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1521,105): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1528,99): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1538,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1621,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1630,78): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1631,91): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1648,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1648,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1648,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1650,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1650,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1650,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1652,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1652,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1652,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1654,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1654,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1654,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1659,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1659,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1659,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1661,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1661,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1661,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1663,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1663,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1663,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1665,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1665,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1665,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1670,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1670,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1670,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1672,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1672,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1672,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1674,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1674,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1674,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1676,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1676,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1676,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1681,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1681,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1681,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1683,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1683,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1683,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1685,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1685,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1685,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1687,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1687,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1687,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1692,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1692,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1692,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1694,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1694,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1694,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1696,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1696,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1696,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1698,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1698,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1698,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1703,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1703,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1703,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1705,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1705,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1705,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1707,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1707,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1707,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1709,137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1709,94): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1709,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1736,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1757,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1761,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1763,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1770,84): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1782,60): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1787,60): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1791,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1799,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1854,103): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1854,71): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1854,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1855,175): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1855,119): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1855,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1856,103): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1856,71): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1856,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1860,103): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1860,71): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1860,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1861,175): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1861,119): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1861,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1862,103): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1862,71): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1862,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1898,130): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1898,87): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1898,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1965,201): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1965,134): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1965,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1969,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1971,373): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1971,244): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1971,115): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1977,201): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1977,134): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1977,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1980,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1982,373): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1982,244): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1982,115): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1988,201): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1988,134): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1988,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1991,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1993,373): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1993,244): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1993,115): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1999,201): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1999,134): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(1999,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(2001,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(2003,373): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(2003,244): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(2003,115): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(2006,26): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\WaterSurface-master\WaterSurface-master\include\glm-0.9.8.5\glm\glm\detail\type_vec4.inl(433,105): warning C4244: 'argument': conversion from 'U' to 'T', possible loss of data
+          with
+          [
+              U=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\WaterSurface-master\WaterSurface-master\include\glm-0.9.8.5\glm\glm\detail\type_mat4x4.inl(348): message : see reference to function template instantiation 'glm::tvec4<float,glm::packed_highp> &glm::tvec4<float,glm::packed_highp>::operator /=<U>(U)' being compiled
+          with
+          [
+              U=int
+          ]
+C:\WaterSurface-master\WaterSurface-master\include\glm-0.9.8.5\glm\glm\detail\type_mat4x4.inl(348): message : see reference to function template instantiation 'glm::tvec4<float,glm::packed_highp> &glm::tvec4<float,glm::packed_highp>::operator /=<U>(U)' being compiled
+          with
+          [
+              U=int
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(2045): message : see reference to function template instantiation 'glm::tmat4x4<float,glm::packed_highp> &glm::tmat4x4<float,glm::packed_highp>::operator /=<int>(U)' being compiled
+          with
+          [
+              U=int
+          ]
+C:\WaterSurface-master\WaterSurface-master\src\TrainView.cpp(2045): message : see reference to function template instantiation 'glm::tmat4x4<float,glm::packed_highp> &glm::tmat4x4<float,glm::packed_highp>::operator /=<int>(U)' being compiled
+          with
+          [
+              U=int
+          ]
+  WaterSurface.vcxproj -> C:\WaterSurface-master\WaterSurface-master\Release\WaterSurface.exe
