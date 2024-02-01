@@ -7,3 +7,5 @@ In this project, I built a wonderful amusement park with OpenGL.
 - Used bezier curve and considered arc length to generate tracks for roller coaster.
 
 _Executable file in /Release/WaterSurface.exe_
+
+_IDE: Visual Studio 2019_
