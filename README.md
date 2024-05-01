@@ -8,4 +8,6 @@ In this project, I built a wonderful amusement park with OpenGL.
 
 _Executable file in /Release/WaterSurface.exe_
 
+See screenshots in Introduction.pdf
+
 _IDE: Visual Studio 2019_
